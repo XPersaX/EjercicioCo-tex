@@ -32,9 +32,9 @@
                                     unset($_SESSION['error']); // Eliminar el mensaje de la sesión
                                 }
                             ?>
-                            <input class="form-control form-control-lg" type="text" name="nombre_producto" placeholder="Nombre del producto" >
+                            <input class="form-control form-control-lg" type="text" name="nombre_producto" placeholder="Nombre del producto" required >
                             <br>
-                            <input class="form-control form-control-lg" type="number" name="cantidad_producto" placeholder="Cantidad del producto">
+                            <input class="form-control form-control-lg" type="number" name="cantidad_producto" placeholder="Cantidad del producto" required>
 
                             <div class="mt-2 text-center">
                                 <a href="index.php"  class="btn btn-danger">Cancelar</a>
