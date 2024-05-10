@@ -34,7 +34,7 @@
                             ?>
                             <input class="form-control form-control-lg" type="text" name="nombre_producto" placeholder="Nombre del producto" required >
                             <br>
-                            <input class="form-control form-control-lg" type="number" name="cantidad_producto" placeholder="Cantidad del producto" required>
+                            <input class="form-control form-control-lg" type="number" min="1" name="cantidad_producto" placeholder="Cantidad del producto"  required>
 
                             <div class="mt-2 text-center">
                                 <a href="index.php"  class="btn btn-danger">Cancelar</a>
