@@ -6,7 +6,6 @@
       <p>Sidebar content</p>
     </div>
   </aside>
-  <!-- /.control-sidebar -->
 
   <!-- Main Footer -->
   <footer class="main-footer">
