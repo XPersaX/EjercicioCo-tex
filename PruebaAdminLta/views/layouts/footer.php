@@ -9,7 +9,6 @@
 
   <!-- Main Footer -->
   <footer class="main-footer">
-    <!-- Default to the left -->
     <strong>Copyright &copy; 2024-2030 <a href="https://www.coytex.com.co/">CO&TEX SAS</a>.</strong> All rights reserved.
   </footer>
 </div>
